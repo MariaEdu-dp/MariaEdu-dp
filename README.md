@@ -1,5 +1,5 @@
 ## About me
-Hi, my name is Maria and I am student of Geography at Universidade Federal de São João del-Rei, Brazil. Actually I study topics of Remote Sensing and your applications. 
+Hi, my name is Maria and I am student of Geography. Actually I study topics of Remote Sensing and your applications. 
 
 ### My interests in Geography
 I study some specific topics, like:
